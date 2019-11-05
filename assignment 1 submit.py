@@ -45,7 +45,7 @@ lname = input("Input your Last Name : ")
 print ("Hello  " + lname + " " + fname)
 
 
-# In[7]:
+# In[6]:
 
 
 num1 = int(input("Enter first number: "))
